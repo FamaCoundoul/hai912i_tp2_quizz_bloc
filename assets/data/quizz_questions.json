@@ -1,0 +1,202 @@
+[
+  {
+    "id": "1",
+    "questionText": "Quelle est la capitale de la France ?",
+    "isCorrect": true,
+    "theme": "Géographie",
+    "difficulty": 1,
+    "image": "./images/france.jpeg",
+    "options": ["Paris", "Lyon", "Marseille", "Bordeaux"],
+    "correctAnswer": "Paris"
+  },
+  {
+    "id": "2",
+    "questionText": "Le Mont-Blanc est le plus haut sommet d'Europe.",
+    "isCorrect": false,
+    "theme": "Géographie",
+    "difficulty": 2,
+    "image": "./images/montagne.jpeg",
+    "options": ["Vrai", "Faux"],
+    "correctAnswer": "Faux"
+  },
+  {
+    "id": "3",
+    "questionText": "En quelle année a eu lieu la Révolution française ?",
+    "isCorrect": true,
+    "theme": "Histoire",
+    "difficulty": 2,
+    "image": "./images/histoire.jpg",
+    "options": ["1789", "1799", "1804", "1815"],
+    "correctAnswer": "1789"
+  },
+  {
+    "id": "4",
+    "questionText": "La France a remporté la Coupe du Monde de football en 2018.",
+    "isCorrect": true,
+    "theme": "Sport",
+    "difficulty": 1,
+    "image": "./images/football.jpeg",
+    "options": ["Vrai", "Faux"],
+    "correctAnswer": "Vrai"
+  },
+  {
+    "id": "5",
+    "questionText": "Quel est le fleuve le plus long de France ?",
+    "isCorrect": true,
+    "theme": "Géographie",
+    "difficulty": 2,
+    "image": "./images/fleuve.jpeg",
+    "options": ["La Seine", "La Loire", "Le Rhône", "La Garonne"],
+    "correctAnswer": "La Loire"
+  },
+  {
+    "id": "6",
+    "questionText": "La Tour Eiffel a été construite pour l'Exposition universelle de 1889.",
+    "isCorrect": true,
+    "theme": "Histoire",
+    "difficulty": 2,
+    "image": "./images/toureiffel.jpeg",
+    "options": ["Vrai", "Faux"],
+    "correctAnswer": "Vrai"
+  },
+  {
+    "id": "7",
+    "questionText": "Combien de régions compte la France métropolitaine ?",
+    "isCorrect": true,
+    "theme": "Géographie",
+    "difficulty": 3,
+    "image": "./images/regions.jpeg",
+    "options": ["10", "13", "18", "22"],
+    "correctAnswer": "13"
+  },
+  {
+    "id": "8",
+    "questionText": "Victor Hugo a écrit 'Les Misérables'.",
+    "isCorrect": true,
+    "theme": "Littérature",
+    "difficulty": 1,
+    "image": "./images/livre.jpeg",
+    "options": ["Vrai", "Faux"],
+    "correctAnswer": "Vrai"
+  },
+  {
+    "id": "9",
+    "questionText": "Quel scientifique français a découvert la pénicilline ?",
+    "isCorrect": false,
+    "theme": "Sciences",
+    "difficulty": 3,
+    "image": "./images/science.jpeg",
+    "options": ["Louis Pasteur", "Marie Curie", "Pierre et Marie Curie", "Aucun (c'était Alexander Fleming)"],
+    "correctAnswer": "Aucun (c'était Alexander Fleming)"
+  },
+  {
+    "id": "10",
+    "questionText": "La France est une république depuis 1958.",
+    "isCorrect": false,
+    "theme": "Histoire",
+    "difficulty": 3,
+    "image": "./images/republique.jpeg",
+    "options": ["Vrai", "Faux"],
+    "correctAnswer": "Faux"
+  },
+  {
+    "id": "11",
+    "questionText": "Quel est le plat national français ?",
+    "isCorrect": true,
+    "theme": "Culture",
+    "difficulty": 2,
+    "image": "./images/cuisine.jpeg",
+    "options": ["Le coq au vin", "Le pot-au-feu", "La ratatouille", "Il n'y en a pas officiellement"],
+    "correctAnswer": "Il n'y en a pas officiellement"
+  },
+  {
+    "id": "12",
+    "questionText": "Le français est la seule langue officielle en France.",
+    "isCorrect": true,
+    "theme": "Culture",
+    "difficulty": 2,
+    "image": "./images/langue.jpeg",
+    "options": ["Vrai", "Faux"],
+    "correctAnswer": "Vrai"
+  },
+  {
+    "id": "13",
+    "questionText": "Quelle ville française est surnommée 'la cité des Ducs' ?",
+    "isCorrect": true,
+    "theme": "Géographie",
+    "difficulty": 3,
+    "image": "./images/ville.jpeg",
+    "options": ["Dijon", "Nantes", "Tours", "Rouen"],
+    "correctAnswer": "Dijon"
+  },
+  {
+    "id": "14",
+    "questionText": "La Marseillaise a été composée à Marseille.",
+    "isCorrect": false,
+    "theme": "Histoire",
+    "difficulty": 2,
+    "image": "./images/marseillaise.jpeg",
+    "options": ["Vrai", "Faux"],
+    "correctAnswer": "Faux"
+  },
+  {
+    "id": "15",
+    "questionText": "Combien de départements compte la France en tout (métropole + outre-mer) ?",
+    "isCorrect": true,
+    "theme": "Géographie",
+    "difficulty": 3,
+    "image": "./images/departement.jpeg",
+    "options": ["96", "101", "105", "110"],
+    "correctAnswer": "101"
+  },
+  {
+    "id": "16",
+    "questionText": "Le château de Versailles a été construit sous le règne de Louis XIV.",
+    "isCorrect": true,
+    "theme": "Histoire",
+    "difficulty": 2,
+    "image": "./images/versailles.jpeg",
+    "options": ["Vrai", "Faux"],
+    "correctAnswer": "Vrai"
+  },
+  {
+    "id": "17",
+    "questionText": "Quel est le fromage français le plus consommé dans le monde ?",
+    "isCorrect": true,
+    "theme": "Culture",
+    "difficulty": 2,
+    "image": "./images/fromage.jpeg",
+    "options": ["Le Camembert", "Le Roquefort", "Le Brie", "L'Emmental"],
+    "correctAnswer": "Le Camembert"
+  },
+  {
+    "id": "18",
+    "questionText": "La France partage une frontière avec l'Allemagne.",
+    "isCorrect": true,
+    "theme": "Géographie",
+    "difficulty": 1,
+    "image": "./images/frontiere.jpeg",
+    "options": ["Vrai", "Faux"],
+    "correctAnswer": "Vrai"
+  },
+  {
+    "id": "19",
+    "questionText": "En quelle année les Jeux Olympiques ont-ils eu lieu à Paris pour la première fois ?",
+    "isCorrect": true,
+    "theme": "Sport",
+    "difficulty": 3,
+    "image": "./images/jo.jpeg",
+    "options": ["1900", "1924", "1968", "2024"],
+    "correctAnswer": "1900"
+  },
+  {
+    "id": "20",
+    "questionText": "Napoléon Bonaparte est né en Corse.",
+    "isCorrect": true,
+    "theme": "Histoire",
+    "difficulty": 2,
+    "image": "./images/napoleon.jpeg",
+    "options": ["Vrai", "Faux"],
+    "correctAnswer": "Vrai"
+  }
+]
