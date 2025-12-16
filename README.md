@@ -667,6 +667,10 @@ BLoC est un pattern puissant pour :
 - ✅ Code hautement testable
 - ✅ Séparation stricte UI/Logic
 
+##  Licence
+
+Ce projet est développé à des fins pédagogiques.
+
 ---
 
 **Développé avec ❤️ en Flutter + BLoC**
